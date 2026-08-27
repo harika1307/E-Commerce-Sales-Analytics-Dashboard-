@@ -127,3 +127,27 @@ DIVIDE([Total Profit], [Total Revenue])
 
 Average Order Value =
 DIVIDE([Total Revenue], [Total Orders])
+```
+## 🔎 Key Business Insights
+
+- **Technology** is the highest revenue-generating category, making it a major contributor to overall sales.
+
+- **Copiers and Phones** are among the strongest profit-generating sub-categories, indicating strong profitability within these product areas.
+
+- **Tables** show negative overall profitability despite generating substantial revenue, highlighting a potential issue with pricing, discounts, or product costs.
+
+- The **Consumer segment** has the largest customer base and contributes the highest overall revenue, making it the primary customer segment.
+
+- The **Home Office segment** demonstrates a higher profit margin compared with the other segments, indicating potential for profitable growth.
+
+- Revenue is concentrated among a relatively small group of **high-value customers**, highlighting the importance of customer retention and targeted relationship strategies.
+
+- The analysis of **discounts and profit margins** indicates that discounting should be carefully evaluated to ensure that increased sales justify the impact on profitability.
+
+## 💡 Business Recommendations
+
+- Review the pricing, discount, and cost structure of **loss-making sub-categories**, particularly Tables.
+- Focus on retaining and developing relationships with **high-value customers**.
+- Explore growth opportunities within **high-margin customer segments** such as Home Office.
+- Continue leveraging strong-performing categories such as **Technology** while monitoring profitability.
+- Evaluate discount strategies based on both **revenue growth and profit margin**, rather than sales volume alone.
